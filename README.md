@@ -9,7 +9,7 @@
 
 ![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusbrivio&show_icons=true&theme=tokyonight)
 
-![Top Langs][(https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbrivio&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?matheusbrivio=SUYASHPATIL400&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbrivio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_brivio/)
 
